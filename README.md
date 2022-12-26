@@ -10,7 +10,7 @@
 
 - проверить XML на Well formed;
 
-> <req>
+> <req
 >
 > <surname>Иванов</surname>
 
