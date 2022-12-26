@@ -12,7 +12,7 @@
 
 <img src="Task_1/xml_1.jpg" height=500 width="500"/>
 
-:point_right: [Правильный вариант]( "Открыть")
+:point_right: [Правильный вариант](https://github.com/ANT050/Homework_22.12.2022-web/blob/main/Task_1/xml.jpg "Открыть")
 
 Проверить можно на сайте jsonformatter:
 
@@ -35,7 +35,7 @@
 > "phone": "8 926 766 48 48"
 >}
 
-:point_right: [Правильный вариант]( "Открыть")
+:point_right: [Правильный вариант](https://github.com/ANT050/Homework_22.12.2022-web/blob/main/Task_1/json.jpg "Открыть")
 
 Проверить можно на сайте jsonformatter:
 
