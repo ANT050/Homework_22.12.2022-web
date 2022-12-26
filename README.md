@@ -10,21 +10,7 @@
 
 - проверить XML на Well formed;
 
-> <req>
->
-> 	<surname>Иванов</surname>
->
-> 	<name>Иван</name>
->
-> 	<patronymic>Иванович</patronymic>
->
-> 	<birthdate>01.01.1990</birthdate>
->
-> 	<birthplace>Москва</birthplace>
->
-> 	<phone>8 926 766 48 48</phone>
->
-></req>
+<img src="Task_1/xml_1.jpg" height=500 width="500"/>
 
 :point_right: [Правильный вариант]( "Открыть")
 
